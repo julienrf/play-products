@@ -4,7 +4,7 @@ organization := "org.julienrf"
 
 libraryDependencies ++= Seq(
   "com.typesafe.play" %% "play-functional" % "2.4.6",
-  "com.chuusai" %% "shapeless" % "2.2.5",
+  "com.chuusai" %% "shapeless" % "2.3.0",
   "org.scalatest" %% "scalatest" % "2.2.4" % Test,
   "com.typesafe.play" %% "play-json" % "2.4.6" % Test
 )
